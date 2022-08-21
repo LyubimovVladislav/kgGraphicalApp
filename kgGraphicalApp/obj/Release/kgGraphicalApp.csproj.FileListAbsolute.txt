@@ -1,0 +1,10 @@
+C:\Users\grifo\RiderProjects\kgGraphicalApp\kgGraphicalApp\bin\Release\kgGraphicalApp.exe.config
+C:\Users\grifo\RiderProjects\kgGraphicalApp\kgGraphicalApp\bin\Release\kgGraphicalApp.exe
+C:\Users\grifo\RiderProjects\kgGraphicalApp\kgGraphicalApp\bin\Release\kgGraphicalApp.pdb
+C:\Users\grifo\RiderProjects\kgGraphicalApp\kgGraphicalApp\obj\Release\kgGraphicalApp.csprojAssemblyReference.cache
+C:\Users\grifo\RiderProjects\kgGraphicalApp\kgGraphicalApp\obj\Release\kgGraphicalApp.Form1.resources
+C:\Users\grifo\RiderProjects\kgGraphicalApp\kgGraphicalApp\obj\Release\kgGraphicalApp.Properties.Resources.resources
+C:\Users\grifo\RiderProjects\kgGraphicalApp\kgGraphicalApp\obj\Release\kgGraphicalApp.csproj.GenerateResource.cache
+C:\Users\grifo\RiderProjects\kgGraphicalApp\kgGraphicalApp\obj\Release\kgGraphicalApp.csproj.CoreCompileInputs.cache
+C:\Users\grifo\RiderProjects\kgGraphicalApp\kgGraphicalApp\obj\Release\kgGraphicalApp.exe
+C:\Users\grifo\RiderProjects\kgGraphicalApp\kgGraphicalApp\obj\Release\kgGraphicalApp.pdb
